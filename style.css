@@ -25,6 +25,8 @@ a {
   padding: 0; 
   width: 80%;
   background-color: #f1f1f1;
+  margin-right: auto;
+  margin-left: auto;
   overflow: hidden;
 }
 
