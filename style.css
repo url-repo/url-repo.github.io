@@ -19,7 +19,7 @@ a {
   border-bottom: none;
 }
 
-.NavBar {
+ul.NavBar {
   list-style-type: none;
   margin: 0;
   padding: 0; 
