@@ -2,8 +2,14 @@ body {
   font-famaily: Arial, Helvetica, sans-serif;
 }
 
+a:link {
+  color: grey;
+  text-decoration: none; 
+}
+
 a:hover {
   color: red;
+  text-decoration: none;
 }
 
 a {
