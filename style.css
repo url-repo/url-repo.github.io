@@ -19,20 +19,16 @@ a {
   border-bottom: none;
 }
 
-ul.NavBar {
+.NavBar ul {
   list-style-type: none;
   margin: 0;
   padding: 0; 
-  width: 200 px;
+  width: 80%;
   background-color: #f1f1f1;
   overflow: hidden;
 }
 
-li.NavBar {
-  float: left;
-}
-
-li.NavBar {
+.NavBar li {
   display: block;
   color: white;
   text-align: center;
